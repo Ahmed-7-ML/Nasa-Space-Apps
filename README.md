@@ -1,4 +1,3 @@
-Here's your `README.md` file enhanced with symbols for better readability:
 
 ---
 
@@ -67,5 +66,3 @@ This project focuses on detecting seismic events such as **moonquakes** 🌕 and
 This project utilizes seismic data from space agencies like **NASA** and **ESA**. Special thanks to the open-source community for making essential tools and libraries available 🌐.
 
 ---
-
-With these symbols, the README now has a more engaging and visually appealing structure!
